@@ -6,5 +6,7 @@
 <body>
 
 	<h1>HOLA GRUPO</h1>
+
+	<div><b>ehhh pana estudien mas bien</b></div>
 </body>
 </html>
