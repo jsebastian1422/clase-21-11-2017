@@ -15,6 +15,10 @@
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<h1>HOLA GRUPO</h1>
 
+
+	<div><b>ehhh pana estudien mas bien</b></div>
+
 	<h2>Hagan las cosas bien omeeee</h2>
+
 </body>
 </html>
