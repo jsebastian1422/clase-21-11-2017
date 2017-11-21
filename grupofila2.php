@@ -4,6 +4,7 @@
 	<title>clase21/11/2017</title>
 </head>
 <body>
+
 	<img src="http://www.ariva.com.ph/wp-content/uploads/2015/03/SUMMER-HEADER-2015.png">
 	<h1>Bienvenidos !! </h1>
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -15,6 +16,5 @@
 	<h1>HOLA GRUPO</h1>
 
 	<h2>Hagan las cosas bien omeeee</h2>
-
 </body>
 </html>
