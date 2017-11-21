@@ -6,5 +6,6 @@
 <body>
 
 	<h1>HOLA GRUPO</h1>
+	<h2>Hagan las cosas bien ome</h2>
 </body>
 </html>
